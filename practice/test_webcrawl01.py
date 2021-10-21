@@ -13,4 +13,4 @@ title3 = doc.select('h3.tit_view')[0].get_text()
 
 print(title)
 print(title2)
-print('# 뉴스 제목 : {]'.format(title3))
+print('# 뉴스 제목 : {}'.format(title3))
